@@ -1,0 +1,44 @@
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+    float: left;
+    margin-right: 10px;
+    
+  }
+  body {
+    background-image: url('iiui.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  
+  .myImg{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ 
+  h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 90;
+  }
+  h2 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 30;
+  }
+  .num {
+    text-align: center;
+    color: rgb(47, 7, 243);
+    font-size: 200;
+  }
+
+
+
+
+
+
+
